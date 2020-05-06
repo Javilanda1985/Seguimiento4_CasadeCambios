@@ -1,0 +1,10 @@
+C:\Users\landa\source\repos\Casa\Casa\bin\Debug\Casa.exe.config
+C:\Users\landa\source\repos\Casa\Casa\bin\Debug\Casa.exe
+C:\Users\landa\source\repos\Casa\Casa\bin\Debug\Casa.pdb
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.csprojAssemblyReference.cache
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.Form1.resources
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.Properties.Resources.resources
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.csproj.GenerateResource.cache
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.exe
+C:\Users\landa\source\repos\Casa\Casa\obj\Debug\Casa.pdb
